@@ -1,7 +1,10 @@
 						****************************** TARG ****************************
 			TARG: A reference-free, lossless, customized general-purpose encoder for genome sequence in raw, FASTA, or multi-FASTA formats
-					https://github.com/AnshuOishik/TARG
-						Copyright (C) 2024 
+								https://github.com/AnshuOishik/TARG
+									Copyright (C) 2024 
+=============================================================================================================================
+If you use TARG please cite the paper as below:
+S. Roy, P. Ghosh and A. Mukhopadhyay, "TARG: A Reference-Free, Lossless, Customized General-Purpose Encoder for Genome Sequence in Raw, FASTA, or Multi-FASTA Formats," 2024 4th International Conference on Computer, Communication, Control & Information Technology (C3IT), Hooghly, India, 2024, pp. 1-6, https://doi.org/10.1109/C3IT60531.2024.10829491.
 =============================================================================================================================
 Introduction
 To utilize the code, please use the Notepad++ editor.

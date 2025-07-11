@@ -1,5 +1,6 @@
-						****************************** TARG ****************************
-			TARG: A reference-free, lossless, customized general-purpose encoder for genome sequence in raw, FASTA, or multi-FASTA formats
+							****************************** TARG ****************************
+					TARG: A reference-free, lossless, customized general-purpose encoder for genome sequence i
+								n raw, FASTA, or multi-FASTA formats
 								https://github.com/AnshuOishik/TARG
 									Copyright (C) 2024 
 =============================================================================================================================
